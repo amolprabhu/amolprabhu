@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @amolprabhu
-- 👀 I’m interested in Data Science, analysis and learning more about coding
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Science, analysis and coding.
+- 🌱 I’m currently learning Data Science.
+- 📖 I love learning new concepts.
 - 📫 How to reach me amolprabhu98@gmail.com
 
 <!---
